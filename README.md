@@ -1,3 +1,18 @@
+# Product Requirement（产品说明文档）
+
+| Title                     | Content |
+| ------------------------- | ------- |
+| Target release(发布日期)  | 2019/11 |
+| Epic(史诗名称)            |         |
+| Document status(文档状态) | 进行中  |
+| Document owner(文件主人)  | 潘卓祺  |
+| Designer(领头的设计师)    | 潘卓祺  |
+| Developer(领头的开发者)   | 潘卓祺  |
+| QA(领头的测试者)          | 潘卓祺  |
+
+
+
+
 - [摘要](#摘要)
 - [A. 价值主张设计](#价值主张设计)
     - [1.1 加值宣言](#加值宣言)
